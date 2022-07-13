@@ -1,0 +1,30 @@
+div {
+    background-color: rgb(0, 255, 234);
+    text-align: center;
+    border-radius: 15px;
+    padding: 15px;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+body {
+    background-color: purple;
+}
+.rpg {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gpr {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.o {
+    text-align: center;
+    color: rgb(0, 255, 234);
+}
+.p {
+    text-align: center;
+    color: rgb(0, 255, 234);
+}
+table, th,td {
+    border: 2px solid purple;
+    border-collapse: collapse;
+}
